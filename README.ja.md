@@ -1,5 +1,5 @@
 # 🎹 Reaktor 5 アンサンブル・コレクション
-[English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
+[Deutsch](README.md) | [English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
 
 **Native Instruments Reaktor 5 アンサンブル** の膨大なアーカイブへようこそ。このリポジトリは、Reaktorコミュニティの資産を長期保存するためのプロジェクトです。
 

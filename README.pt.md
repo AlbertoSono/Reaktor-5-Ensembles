@@ -1,5 +1,5 @@
 # 🎹 Coleção de Ensembles Reaktor 5
-[English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
+[Deutsch](README.md) | [English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
 
 Bem-vindo a este arquivo de **Ensembles do Native Instruments Reaktor 5**. Um projeto de preservação para a comunidade.
 
