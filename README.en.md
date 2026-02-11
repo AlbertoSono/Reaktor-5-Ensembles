@@ -1,6 +1,5 @@
 # 🎹 Reaktor 5 Ensembles Collection
-
-[Auf Deutsch lesen](README.md)
+[English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
 
 Welcome to this extensive archive of **Native Instruments Reaktor 5 Ensembles**. This repository serves as a long-term preservation project for the creative output of the Reaktor community.
 
