@@ -1,4 +1,5 @@
 # Reaktor 5 Ensembles from Native Instruments REAKTOR COMMUNITY
+[Switch to English version](README.en.md)
 
 Willkommen in meiner umfangreichen Sammlung von **Native Instruments Reaktor 5 Ensembles**. Dieses Repository enthält über 400 Dateien (ca. 6 GB) mit einer Vielzahl von Synthesizern, Effekten, Sequenzern und Klangwerkzeugen.
 
